@@ -1,7 +1,9 @@
 # Web Scraping and NLP with Requests, BeautifulSoup, and spaCy
 
 Practice scraping article text from a website 
+
 counting tokens and using lemmas to limit results
+
 visualizing frequency of tokens and lemmas using histograms
 
 ## Rubric
