@@ -1,7 +1,8 @@
 # Web Scraping and NLP with Requests, BeautifulSoup, and spaCy
 
-Complete the tasks in the Python Notebook in this repository.
-Make sure to add and push the pkl or text file of your scraped html (this is specified in the notebook)
+Practice scraping article text from a website 
+counting tokens and using lemmas to limit results
+visualizing frequency of tokens and lemmas using histograms
 
 ## Rubric
 
